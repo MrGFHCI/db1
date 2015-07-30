@@ -29,7 +29,7 @@ public class Db1 {
         String dbName = "chess";
         String driver = "com.mysql.jdbc.Driver";
         String userName = "root";
-        String password = "Raiders23";
+        String password = "***";
         Statement stmt = null;
         Connection conn = null;
         ResultSet rs = null; // rs will get one record from a table. 
