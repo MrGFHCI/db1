@@ -28,7 +28,7 @@ public class Db2 {
         String dbName = "chess";
         String driver = "com.mysql.jdbc.Driver";
         String userName = "root";
-        String password = "Raiders23";
+        String password = "***";
         String sID;
         Statement stmt = null;
         Connection conn = null;
